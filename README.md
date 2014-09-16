@@ -1,4 +1,4 @@
-maas-localpoint-android-sdk
+MaaS Localpoint Android SDK
 ===========================
 
 Phunware Localpoint Android SDK
