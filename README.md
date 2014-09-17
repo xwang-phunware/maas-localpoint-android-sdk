@@ -1,7 +1,7 @@
 MaaS Localpoint Android SDK
 ===========================
 
-Version 2.5.4
+Version 2.6.0
 
 Phunware Localpoint Android SDK
 
