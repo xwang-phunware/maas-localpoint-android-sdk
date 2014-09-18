@@ -1,13 +1,12 @@
-maas-localpoint-android-sdk
+MaaS Localpoint Android SDK
 ===========================
+
+Version 2.6.0
 
 Phunware Localpoint Android SDK
 
 Localpoint SDK Integration Guide Home:
-https://confluence.digby.com/display/LSSS/Localpoint+SDK+Integration+Guide+Home
-
-Android Development:
-https://confluence.digby.com/display/LSSS/Android+Development
+https://github.com/jyang-phunware/maas-localpoint-android-sdk-1/wiki
 
 JavaDoc: 
 http://phunware.github.io/maas-localpoint-android-sdk/
