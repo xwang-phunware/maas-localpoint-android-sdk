@@ -1,12 +1,12 @@
 MaaS Localpoint Android SDK
 ===========================
 
-Version 2.6.1
+Version 2.6.2
 
 Phunware Localpoint Android SDK
 
 Localpoint SDK Integration Guide Home:
 https://github.com/phunware/maas-localpoint-android-sdk/wiki
 
-JavaDoc: 
+JavaDoc:
 http://phunware.github.io/maas-localpoint-android-sdk/
