@@ -42,11 +42,6 @@ public class LPMessageActivity extends Activity {
 
 
     /**
-     * Inflate the menu; this adds items to the action bar if it is present.
-     */
-
-
-    /**
      * Process the valid offers
      */
     private void processValidOffers() {
