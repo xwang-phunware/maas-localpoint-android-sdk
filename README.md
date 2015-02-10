@@ -10,3 +10,7 @@ https://github.com/phunware/maas-localpoint-android-sdk/wiki
 
 JavaDoc:
 http://phunware.github.io/maas-localpoint-android-sdk/
+
+Build requirements
+------------------
+Android SDK 2.3+ (API level 9) or above
