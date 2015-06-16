@@ -1,6 +1,11 @@
 Localpoint Android Library - Change Logs
 ==========
 
+Version 2.6.3.1 *(06/16/2015)*
+----------------------------
+* As device registration response payload won't return inside geofences and messages any more. SDK does the calculation to check if it's necessary to send the geofence entry event after device registration responds.
+* Fix the issue that the notifications without promotion can't be all displayed when they are received at the same time.
+
 Version 2.6.3 *(05/01/2015)*
 ----------------------------
 * Change location update method to use significant location update instead of standard location update.
